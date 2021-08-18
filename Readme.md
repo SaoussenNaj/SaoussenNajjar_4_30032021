@@ -9,7 +9,7 @@ La chouette agence est une agence de web design basée à Lyon. La visibilité d
 
 ## Plan d'action:
 
-Afin d'améliorer le référencement du site web "Agence Chouette" on doit réaliser les étapes suivantes:
+Afin d'améliorer le référencement du site web " La chouette agence" on doit réaliser les étapes suivantes:
 
 ## Etapes à réaliser:
 

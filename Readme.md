@@ -21,3 +21,5 @@ Afin d'améliorer le référencement du site web " La chouette agence" on doit r
 
 * Le site doit également passer le validateur W3C pour HTML et CSS.
 
+* Comparaison des résultats.
+
